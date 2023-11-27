@@ -1,3 +1,6 @@
+
+<img width="138" alt="Screenshot 2023-11-27 at 16 39 28" src="https://github.com/grassets-tech/taiko-pool-client-alpha5/assets/82155440/0e8bc9f5-2c6c-4d1c-88a9-f2cbc75ce942">
+
 # taiko-pool-client for Alpha 5
 
 This is a L2 Taiko pool prover docker package, which allow you to join the Taiko pool with awesome prove-runners.
@@ -57,7 +60,8 @@ Pool manager will assess your node against HW requirements and if it meets will 
 Once new block which requires prove is detected, prover endpoint will be selected from the list and get assigned block to prove.
 Prover generate prove and submit it to Taiko Pool, which will be submitted to the contract using Pool Wallet.
 
-<img width="715" alt="Screenshot 2023-08-16 at 21 32 51" src="https://github.com/davaymne/taiko-pool-client-alpha5/assets/29555611/eec89543-fba4-42c4-b97f-04baf6b5d175">
+<img width="681" alt="Screenshot 2023-11-27 at 16 37 58" src="https://github.com/grassets-tech/taiko-pool-client-alpha5/assets/82155440/becbcdae-253d-4080-ae46-e043ad378683">
+
 
 # Disclaimer #
 - "Taiko pool" is currently in beta version on Testnet, so expect servers restart, code updates, bugs fix and new feature delivery activities.
